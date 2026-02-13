@@ -1,0 +1,302 @@
+/usr/local/bin/quast.py --threads 4 --rna-finding --min-contig 0 --min-identity 90.0 bc2121_select_contigs_size1000.fasta bc2122_select_contigs_size1000.fasta bc2123_select_contigs_size1000.fasta bc2124_select_contigs_size1000.fasta bc2125_select_contigs_size1000.fasta bc2126_select_contigs_size1000.fasta bc2127_select_contigs_size1000.fasta bc2128_select_contigs_size1000.fasta bc2161_select_contigs_size1000.fasta bc2162_select_contigs_size1000.fasta bc2163_select_contigs_size1000.fasta bc2164_select_contigs_size1000.fasta bc2165_select_contigs_size1000.fasta bc2166_select_contigs_size1000.fasta bc2167_select_contigs_size1000.fasta bc2168_select_contigs_size1000.fasta bc2169_select_contigs_size1000.fasta bc2170_select_contigs_size1000.fasta bc2171_select_contigs_size1000.fasta bc2172_select_contigs_size1000.fasta bc2173_select_contigs_size1000.fasta bc2174_select_contigs_size1000.fasta bc2175_select_contigs_size1000.fasta bc2176_select_contigs_size1000.fasta -o /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric --labels "bc2121_select_contigs_size1000, bc2122_select_contigs_size1000, bc2123_select_contigs_size1000, bc2124_select_contigs_size1000, bc2125_select_contigs_size1000, bc2126_select_contigs_size1000, bc2127_select_contigs_size1000, bc2128_select_contigs_size1000, bc2161_select_contigs_size1000, bc2162_select_contigs_size1000, bc2163_select_contigs_size1000, bc2164_select_contigs_size1000, bc2165_select_contigs_size1000, bc2166_select_contigs_size1000, bc2167_select_contigs_size1000, bc2168_select_contigs_size1000, bc2169_select_contigs_size1000, bc2170_select_contigs_size1000, bc2171_select_contigs_size1000, bc2172_select_contigs_size1000, bc2173_select_contigs_size1000, bc2174_select_contigs_size1000, bc2175_select_contigs_size1000, bc2176_select_contigs_size1000"
+
+Version: 5.3.0
+
+System information:
+  OS: Linux-4.18.0-553.85.1.el8_10.x86_64-x86_64-with-glibc2.36 (linux_64)
+  Python version: 3.11.9
+  CPUs number: 128
+
+Started: 2026-01-19 22:56:31
+
+Logging to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/quast.log
+NOTICE: Output directory already exists and looks like a QUAST output dir. Existing results can be reused (e.g. previously generated alignments)!
+
+CWD: /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c
+Main parameters: 
+  MODE: meta, threads: 4, min contig length: 0, min alignment length: 65, min alignment IDY: 90.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Contigs:
+  Pre-processing...
+  1  bc2121_select_contigs_size1000.fasta ==> bc2121_select_contigs_size1000
+  2  bc2122_select_contigs_size1000.fasta ==> bc2122_select_contigs_size1000
+  3  bc2123_select_contigs_size1000.fasta ==> bc2123_select_contigs_size1000
+  4  bc2124_select_contigs_size1000.fasta ==> bc2124_select_contigs_size1000
+  5  bc2125_select_contigs_size1000.fasta ==> bc2125_select_contigs_size1000
+  6  bc2126_select_contigs_size1000.fasta ==> bc2126_select_contigs_size1000
+  7  bc2127_select_contigs_size1000.fasta ==> bc2127_select_contigs_size1000
+  8  bc2128_select_contigs_size1000.fasta ==> bc2128_select_contigs_size1000
+  9  bc2161_select_contigs_size1000.fasta ==> bc2161_select_contigs_size1000
+  10 bc2162_select_contigs_size1000.fasta ==> bc2162_select_contigs_size1000
+  11 bc2163_select_contigs_size1000.fasta ==> bc2163_select_contigs_size1000
+  12 bc2164_select_contigs_size1000.fasta ==> bc2164_select_contigs_size1000
+  13 bc2165_select_contigs_size1000.fasta ==> bc2165_select_contigs_size1000
+  14 bc2166_select_contigs_size1000.fasta ==> bc2166_select_contigs_size1000
+  15 bc2167_select_contigs_size1000.fasta ==> bc2167_select_contigs_size1000
+  16 bc2168_select_contigs_size1000.fasta ==> bc2168_select_contigs_size1000
+  17 bc2169_select_contigs_size1000.fasta ==> bc2169_select_contigs_size1000
+  18 bc2170_select_contigs_size1000.fasta ==> bc2170_select_contigs_size1000
+  19 bc2171_select_contigs_size1000.fasta ==> bc2171_select_contigs_size1000
+  20 bc2172_select_contigs_size1000.fasta ==> bc2172_select_contigs_size1000
+  21 bc2173_select_contigs_size1000.fasta ==> bc2173_select_contigs_size1000
+  22 bc2174_select_contigs_size1000.fasta ==> bc2174_select_contigs_size1000
+  23 bc2175_select_contigs_size1000.fasta ==> bc2175_select_contigs_size1000
+  24 bc2176_select_contigs_size1000.fasta ==> bc2176_select_contigs_size1000
+
+2026-01-19 22:56:50
+Running Basic statistics processor...
+  Contig files: 
+    1  bc2121_select_contigs_size1000
+    2  bc2122_select_contigs_size1000
+    3  bc2123_select_contigs_size1000
+    4  bc2124_select_contigs_size1000
+    5  bc2125_select_contigs_size1000
+    6  bc2126_select_contigs_size1000
+    7  bc2127_select_contigs_size1000
+    8  bc2128_select_contigs_size1000
+    9  bc2161_select_contigs_size1000
+    10 bc2162_select_contigs_size1000
+    11 bc2163_select_contigs_size1000
+    12 bc2164_select_contigs_size1000
+    13 bc2165_select_contigs_size1000
+    14 bc2166_select_contigs_size1000
+    15 bc2167_select_contigs_size1000
+    16 bc2168_select_contigs_size1000
+    17 bc2169_select_contigs_size1000
+    18 bc2170_select_contigs_size1000
+    19 bc2171_select_contigs_size1000
+    20 bc2172_select_contigs_size1000
+    21 bc2173_select_contigs_size1000
+    22 bc2174_select_contigs_size1000
+    23 bc2175_select_contigs_size1000
+    24 bc2176_select_contigs_size1000
+  Calculating N50 and L50...
+    1  bc2121_select_contigs_size1000, N50 = 110223, L50 = 83, auN = 1978365.7, Total length = 55774258, GC % = 63.54, # N's per 100 kbp =  0.00
+    2  bc2122_select_contigs_size1000, N50 = 161486, L50 = 201, auN = 1088284.6, Total length = 193627887, GC % = 61.33, # N's per 100 kbp =  0.00
+    3  bc2123_select_contigs_size1000, N50 = 4029847, L50 = 5, auN = 3804996.8, Total length = 57201781, GC % = 71.41, # N's per 100 kbp =  0.00
+    4  bc2124_select_contigs_size1000, N50 = 136354, L50 = 138, auN = 1130197.1, Total length = 130178963, GC % = 58.77, # N's per 100 kbp =  0.00
+    5  bc2125_select_contigs_size1000, N50 = 1757146, L50 = 14, auN = 2426671.7, Total length = 92868083, GC % = 51.52, # N's per 100 kbp =  0.00
+    6  bc2126_select_contigs_size1000, N50 = 2137200, L50 = 10, auN = 3225793.5, Total length = 99162928, GC % = 51.90, # N's per 100 kbp =  0.00
+    7  bc2127_select_contigs_size1000, N50 = 1161619, L50 = 16, auN = 2468940.3, Total length = 112628831, GC % = 49.64, # N's per 100 kbp =  0.00
+    8  bc2128_select_contigs_size1000, N50 = 4219508, L50 = 6, auN = 4115957.1, Total length = 68583980, GC % = 52.89, # N's per 100 kbp =  0.00
+    9  bc2161_select_contigs_size1000, N50 = 1708403, L50 = 11, auN = 2919786.1, Total length = 94907105, GC % = 63.33, # N's per 100 kbp =  0.00
+    10 bc2162_select_contigs_size1000, N50 = 219185, L50 = 87, auN = 1460203.4, Total length = 147544231, GC % = 69.82, # N's per 100 kbp =  0.00
+    11 bc2163_select_contigs_size1000, N50 = 430897, L50 = 12, auN = 2524101.5, Total length = 59317418, GC % = 55.39, # N's per 100 kbp =  0.00
+    12 bc2164_select_contigs_size1000, N50 = 336908, L50 = 16, auN = 1884607.5, Total length = 49861994, GC % = 59.65, # N's per 100 kbp =  0.00
+    13 bc2165_select_contigs_size1000, N50 = 1297439, L50 = 9, auN = 2915916.3, Total length = 82588430, GC % = 63.03, # N's per 100 kbp =  0.00
+    14 bc2166_select_contigs_size1000, N50 = 116791, L50 = 202, auN = 785585.7, Total length = 125014080, GC % = 57.09, # N's per 100 kbp =  0.00
+    15 bc2167_select_contigs_size1000, N50 = 3966571, L50 = 6, auN = 4122398.7, Total length = 54717993, GC % = 57.05, # N's per 100 kbp =  0.00
+    16 bc2168_select_contigs_size1000, N50 = 4074692, L50 = 4, auN = 4058034.2, Total length = 38596496, GC % = 47.77, # N's per 100 kbp =  0.00
+    17 bc2169_select_contigs_size1000, N50 = 330149, L50 = 75, auN = 1605544.9, Total length = 212767528, GC % = 66.41, # N's per 100 kbp =  0.00
+    18 bc2170_select_contigs_size1000, N50 = 361983, L50 = 20, auN = 1712469.3, Total length = 54493542, GC % = 59.70, # N's per 100 kbp =  0.00
+    19 bc2171_select_contigs_size1000, N50 = 553712, L50 = 25, auN = 1894947.3, Total length = 103538129, GC % = 64.07, # N's per 100 kbp =  0.00
+    20 bc2172_select_contigs_size1000, N50 = 3588902, L50 = 7, auN = 3227368.9, Total length = 64467974, GC % = 51.91, # N's per 100 kbp =  0.00
+    21 bc2173_select_contigs_size1000, N50 = 467032, L50 = 32, auN = 1836174.3, Total length = 115024000, GC % = 63.88, # N's per 100 kbp =  0.00
+    22 bc2174_select_contigs_size1000, N50 = 1032459, L50 = 10, auN = 3112529.3, Total length = 86953530, GC % = 67.77, # N's per 100 kbp =  0.00
+    23 bc2175_select_contigs_size1000, N50 = 57135, L50 = 188, auN = 76273.7, Total length = 37307213, GC % = 47.14, # N's per 100 kbp =  0.00
+    24 bc2176_select_contigs_size1000, N50 = 4064843, L50 = 4, auN = 4169072.2, Total length = 37536778, GC % = 47.11, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/GC_content_plot.pdf
+  Drawing bc2121_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2121_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2122_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2122_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2123_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2123_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2124_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2124_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2125_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2125_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2126_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2126_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2127_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2127_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2128_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2128_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2161_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2161_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2162_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2162_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2163_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2163_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2164_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2164_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2165_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2165_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2166_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2166_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2167_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2167_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2168_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2168_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2169_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2169_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2170_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2170_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2171_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2171_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2172_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2172_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2173_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2173_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2174_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2174_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2175_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2175_select_contigs_size1000_GC_content_plot.pdf
+  Drawing bc2176_select_contigs_size1000 GC content plot...
+    saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/basic_stats/bc2176_select_contigs_size1000_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2026-01-19 22:59:51
+Running Barrnap...
+Logging to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/barrnap.log...
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2122_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2122_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2121_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2121_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2123_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2123_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2124_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2124_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2125_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2125_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2126_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2126_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2127_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2127_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2128_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2128_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2161_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2161_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2162_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2162_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2163_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2163_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2164_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2164_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2165_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2165_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2166_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2166_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2167_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2167_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2168_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2168_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2169_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2169_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2170_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2170_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2171_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2171_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2172_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2172_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2173_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2173_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2174_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2174_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2175_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2175_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+/usr/local/lib/python3.11/site-packages/quast_libs/barrnap/bin/barrnap --quiet -k \
+bac --threads 1 assembly_metric/quast_corrected_input/bc2176_select_contigs_size1000.fasta \
+> assembly_metric/predicted_genes/bc2176_select_contigs_size1000.rna.gff 2>> assembly_metric/predicted_genes/barrnap.log
+  1    Ribosomal RNA genes = 82
+  1    Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2121_select_contigs_size1000.rna.gff
+  2    Ribosomal RNA genes = 316
+  2    Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2122_select_contigs_size1000.rna.gff
+  3    Ribosomal RNA genes = 165
+  3    Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2123_select_contigs_size1000.rna.gff
+  4    Ribosomal RNA genes = 161
+  4    Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2124_select_contigs_size1000.rna.gff
+  5    Ribosomal RNA genes = 143
+  5    Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2125_select_contigs_size1000.rna.gff
+  6    Ribosomal RNA genes = 193
+  6    Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2126_select_contigs_size1000.rna.gff
+  7    Ribosomal RNA genes = 224
+  7    Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2127_select_contigs_size1000.rna.gff
+  8    Ribosomal RNA genes = 151
+  8    Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2128_select_contigs_size1000.rna.gff
+  9    Ribosomal RNA genes = 229
+  9    Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2161_select_contigs_size1000.rna.gff
+  10   Ribosomal RNA genes = 365
+  10   Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2162_select_contigs_size1000.rna.gff
+  11   Ribosomal RNA genes = 131
+  11   Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2163_select_contigs_size1000.rna.gff
+  12   Ribosomal RNA genes = 102
+  12   Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2164_select_contigs_size1000.rna.gff
+  13   Ribosomal RNA genes = 174
+  13   Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2165_select_contigs_size1000.rna.gff
+  14   Ribosomal RNA genes = 244
+  14   Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2166_select_contigs_size1000.rna.gff
+  15   Ribosomal RNA genes = 84
+  15   Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2167_select_contigs_size1000.rna.gff
+  16   Ribosomal RNA genes = 58
+  16   Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2168_select_contigs_size1000.rna.gff
+  17   Ribosomal RNA genes = 396
+  17   Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2169_select_contigs_size1000.rna.gff
+  18   Ribosomal RNA genes = 174
+  18   Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2170_select_contigs_size1000.rna.gff
+  19   Ribosomal RNA genes = 225
+  19   Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2171_select_contigs_size1000.rna.gff
+  20   Ribosomal RNA genes = 108
+  20   Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2172_select_contigs_size1000.rna.gff
+  21   Ribosomal RNA genes = 225
+  21   Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2173_select_contigs_size1000.rna.gff
+  22   Ribosomal RNA genes = 225
+  22   Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2174_select_contigs_size1000.rna.gff
+  23   Ribosomal RNA genes = 50
+  23   Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2175_select_contigs_size1000.rna.gff
+  24   Ribosomal RNA genes = 53
+  24   Predicted genes (GFF): /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/predicted_genes/bc2176_select_contigs_size1000.rna.gff
+Done.
+
+2026-01-19 23:08:23
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2026-01-19 23:09:51
+RESULTS:
+  Text versions of total report are saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/report.html
+  PDF version (tables and plots) is saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/report.pdf
+  Icarus (contig browser) is saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/icarus.html
+  Log is saved to /data/users/fkurz/metagenomics/output_hifiasm_01/work/64/2f0d54e13c056576857d70c0e2162c/assembly_metric/quast.log
+
+Finished: 2026-01-19 23:09:53
+Elapsed time: 0:13:21.708988
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

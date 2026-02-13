@@ -1,0 +1,43 @@
+/usr/local/bin/metaquast.py --threads 4 --rna-finding --max-ref-number 0 --min-contig 0 bc2121.fna bc2122.fna bc2123.fna bc2124.fna bc2125.fna bc2126.fna bc2127.fna bc2128.fna bc2161.fna bc2162.fna bc2163.fna bc2164.fna bc2165.fna bc2166.fna bc2167.fna bc2168.fna bc2169.fna bc2170.fna bc2171.fna bc2172.fna bc2173.fna bc2174.fna bc2175.fna bc2176.fna -o assembly_metric/
+
+Version: 5.3.0
+
+System information:
+  OS: Linux-4.18.0-553.85.1.el8_10.x86_64-x86_64-with-glibc2.36 (linux_64)
+  Python version: 3.11.9
+  CPUs number: 128
+
+Started: 2025-12-11 18:38:17
+
+Logging to /data/users/fkurz/metagenomics/output_hifiasm_01/work/0e/7e2fe6b83e1c2a49cc980f8c7cc16b/assembly_metric/metaquast.log
+
+Contigs:
+  Pre-processing...
+  1  bc2121.fna ==> bc2121
+  2  bc2122.fna ==> bc2122
+  3  bc2123.fna ==> bc2123
+  4  bc2124.fna ==> bc2124
+  5  bc2125.fna ==> bc2125
+  6  bc2126.fna ==> bc2126
+  7  bc2127.fna ==> bc2127
+  8  bc2128.fna ==> bc2128
+  9  bc2161.fna ==> bc2161
+  10 bc2162.fna ==> bc2162
+  11 bc2163.fna ==> bc2163
+  12 bc2164.fna ==> bc2164
+  13 bc2165.fna ==> bc2165
+  14 bc2166.fna ==> bc2166
+  15 bc2167.fna ==> bc2167
+  16 bc2168.fna ==> bc2168
+  17 bc2169.fna ==> bc2169
+  18 bc2170.fna ==> bc2170
+  19 bc2171.fna ==> bc2171
+  20 bc2172.fna ==> bc2172
+  21 bc2173.fna ==> bc2173
+  22 bc2174.fna ==> bc2174
+  23 bc2175.fna ==> bc2175
+  24 bc2176.fna ==> bc2176
+
+NOTICE: Maximum number of references (--max-ref-number) is set to 0, search in SILVA 16S rRNA database is disabled
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder

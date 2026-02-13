@@ -1,0 +1,43 @@
+/usr/local/bin/metaquast.py --threads 4 --rna-finding --max-ref-number 0 --min-contig 0 bc2121_select_contigs_size1000.fasta bc2122_select_contigs_size1000.fasta bc2123_select_contigs_size1000.fasta bc2124_select_contigs_size1000.fasta bc2125_select_contigs_size1000.fasta bc2126_select_contigs_size1000.fasta bc2127_select_contigs_size1000.fasta bc2128_select_contigs_size1000.fasta bc2161_select_contigs_size1000.fasta bc2162_select_contigs_size1000.fasta bc2163_select_contigs_size1000.fasta bc2164_select_contigs_size1000.fasta bc2165_select_contigs_size1000.fasta bc2166_select_contigs_size1000.fasta bc2167_select_contigs_size1000.fasta bc2168_select_contigs_size1000.fasta bc2169_select_contigs_size1000.fasta bc2170_select_contigs_size1000.fasta bc2171_select_contigs_size1000.fasta bc2172_select_contigs_size1000.fasta bc2173_select_contigs_size1000.fasta bc2174_select_contigs_size1000.fasta bc2175_select_contigs_size1000.fasta bc2176_select_contigs_size1000.fasta -o assembly_metric/
+
+Version: 5.3.0
+
+System information:
+  OS: Linux-4.18.0-553.85.1.el8_10.x86_64-x86_64-with-glibc2.36 (linux_64)
+  Python version: 3.11.9
+  CPUs number: 128
+
+Started: 2025-12-11 18:55:12
+
+Logging to /data/users/fkurz/metagenomics/output_hifiasm_01/work/e0/b1c951babe84989eb0e7d10a1e1947/assembly_metric/metaquast.log
+
+Contigs:
+  Pre-processing...
+  1  bc2121_select_contigs_size1000.fasta ==> bc2121_select_contigs_size1000
+  2  bc2122_select_contigs_size1000.fasta ==> bc2122_select_contigs_size1000
+  3  bc2123_select_contigs_size1000.fasta ==> bc2123_select_contigs_size1000
+  4  bc2124_select_contigs_size1000.fasta ==> bc2124_select_contigs_size1000
+  5  bc2125_select_contigs_size1000.fasta ==> bc2125_select_contigs_size1000
+  6  bc2126_select_contigs_size1000.fasta ==> bc2126_select_contigs_size1000
+  7  bc2127_select_contigs_size1000.fasta ==> bc2127_select_contigs_size1000
+  8  bc2128_select_contigs_size1000.fasta ==> bc2128_select_contigs_size1000
+  9  bc2161_select_contigs_size1000.fasta ==> bc2161_select_contigs_size1000
+  10 bc2162_select_contigs_size1000.fasta ==> bc2162_select_contigs_size1000
+  11 bc2163_select_contigs_size1000.fasta ==> bc2163_select_contigs_size1000
+  12 bc2164_select_contigs_size1000.fasta ==> bc2164_select_contigs_size1000
+  13 bc2165_select_contigs_size1000.fasta ==> bc2165_select_contigs_size1000
+  14 bc2166_select_contigs_size1000.fasta ==> bc2166_select_contigs_size1000
+  15 bc2167_select_contigs_size1000.fasta ==> bc2167_select_contigs_size1000
+  16 bc2168_select_contigs_size1000.fasta ==> bc2168_select_contigs_size1000
+  17 bc2169_select_contigs_size1000.fasta ==> bc2169_select_contigs_size1000
+  18 bc2170_select_contigs_size1000.fasta ==> bc2170_select_contigs_size1000
+  19 bc2171_select_contigs_size1000.fasta ==> bc2171_select_contigs_size1000
+  20 bc2172_select_contigs_size1000.fasta ==> bc2172_select_contigs_size1000
+  21 bc2173_select_contigs_size1000.fasta ==> bc2173_select_contigs_size1000
+  22 bc2174_select_contigs_size1000.fasta ==> bc2174_select_contigs_size1000
+  23 bc2175_select_contigs_size1000.fasta ==> bc2175_select_contigs_size1000
+  24 bc2176_select_contigs_size1000.fasta ==> bc2176_select_contigs_size1000
+
+NOTICE: Maximum number of references (--max-ref-number) is set to 0, search in SILVA 16S rRNA database is disabled
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder

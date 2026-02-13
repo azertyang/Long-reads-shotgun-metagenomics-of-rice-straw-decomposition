@@ -1,0 +1,206 @@
+##gff-version 3
+bc2167_c1	barrnap:0.8	rRNA	949535	949650	1.5e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c1	barrnap:0.8	rRNA	1254343	1254458	1.1e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c1	barrnap:0.8	rRNA	1855185	1855300	1.2e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c1	barrnap:0.8	rRNA	2199601	2199716	1.2e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c1	barrnap:0.8	rRNA	2366979	2367094	2.2e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c1	barrnap:0.8	rRNA	2674496	2674611	1.2e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c10	barrnap:0.8	rRNA	2313958	2314068	5e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c10	barrnap:0.8	rRNA	2314157	2317273	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c10	barrnap:0.8	rRNA	2317557	2319082	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+bc2167_c10	barrnap:0.8	rRNA	3708916	3709026	5e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c10	barrnap:0.8	rRNA	3709115	3712231	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c10	barrnap:0.8	rRNA	3712515	3714040	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+bc2167_c10	barrnap:0.8	rRNA	4503596	4505121	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+bc2167_c10	barrnap:0.8	rRNA	4505401	4508517	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c10	barrnap:0.8	rRNA	4508606	4508716	5e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c10	barrnap:0.8	rRNA	5086522	5088047	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+bc2167_c10	barrnap:0.8	rRNA	5088320	5091435	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c10	barrnap:0.8	rRNA	5091524	5091634	5e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c11	barrnap:0.8	rRNA	880954	881069	1.1e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c11	barrnap:0.8	rRNA	1346016	1346131	7.2e-08	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c11	barrnap:0.8	rRNA	1564122	1564237	1.6e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c11	barrnap:0.8	rRNA	1979316	1979431	1.2e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c11	barrnap:0.8	rRNA	3798571	3798686	5.6e-08	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c114	barrnap:0.8	rRNA	29081	30500	6.1e-109	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+bc2167_c127	barrnap:0.8	rRNA	1399	2325	5.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c156	barrnap:0.8	rRNA	2649	3575	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c158	barrnap:0.8	rRNA	2791	2906	7.8e-09	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c158	barrnap:0.8	rRNA	29083	29197	1.9e-09	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c16	barrnap:0.8	rRNA	1708	1823	7.8e-09	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c18	barrnap:0.8	rRNA	1265187	1266705	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+bc2167_c18	barrnap:0.8	rRNA	1267081	1270174	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c18	barrnap:0.8	rRNA	1270266	1270375	1.2e-08	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c18	barrnap:0.8	rRNA	1756965	1758483	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+bc2167_c18	barrnap:0.8	rRNA	1758859	1761952	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c18	barrnap:0.8	rRNA	1762050	1762159	1.2e-08	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c18	barrnap:0.8	rRNA	2311236	2312755	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+bc2167_c18	barrnap:0.8	rRNA	2313131	2316224	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c18	barrnap:0.8	rRNA	2316322	2316431	1.2e-08	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c2	barrnap:0.8	rRNA	1173540	1173654	1.5e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c2	barrnap:0.8	rRNA	1198588	1198703	3.7e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c2	barrnap:0.8	rRNA	2297716	2297831	1.2e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c2	barrnap:0.8	rRNA	3831751	3831866	2.2e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c20	barrnap:0.8	rRNA	448469	448578	8.6e-09	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c20	barrnap:0.8	rRNA	448711	451499	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c20	barrnap:0.8	rRNA	452624	454105	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+bc2167_c20	barrnap:0.8	rRNA	619055	619164	8.6e-09	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c20	barrnap:0.8	rRNA	619297	622085	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c20	barrnap:0.8	rRNA	623212	624693	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+bc2167_c203	barrnap:0.8	rRNA	1918	4383	1.6e-173	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 76 percent of the 23S ribosomal RNA
+bc2167_c204	barrnap:0.8	rRNA	168	2633	1.5e-173	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 76 percent of the 23S ribosomal RNA
+bc2167_c22	barrnap:0.8	rRNA	925703	927228	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+bc2167_c22	barrnap:0.8	rRNA	927511	930626	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c22	barrnap:0.8	rRNA	930738	930848	5e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c22	barrnap:0.8	rRNA	1366115	1367640	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+bc2167_c22	barrnap:0.8	rRNA	1367914	1371030	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c22	barrnap:0.8	rRNA	1371119	1371229	5e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c259	barrnap:0.8	rRNA	1418	2344	5.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c269	barrnap:0.8	rRNA	1051	1977	5.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c278	barrnap:0.8	rRNA	1410	2336	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c278	barrnap:0.8	rRNA	2514	4759	2.1e-104	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 69 percent of the 23S ribosomal RNA
+bc2167_c279	barrnap:0.8	rRNA	2	3034	1.3e-203	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c280	barrnap:0.8	rRNA	137	1063	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c281	barrnap:0.8	rRNA	1546	2472	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c291	barrnap:0.8	rRNA	903	1829	5.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c294	barrnap:0.8	rRNA	3	1852	6.7e-144	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 57 percent of the 23S ribosomal RNA
+bc2167_c297	barrnap:0.8	rRNA	1316	2242	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c297	barrnap:0.8	rRNA	2420	4261	8e-83	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 56 percent of the 23S ribosomal RNA
+bc2167_c298	barrnap:0.8	rRNA	8623	8738	1.1e-09	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c30	barrnap:0.8	rRNA	14939	16374	4.6e-101	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+bc2167_c30	barrnap:0.8	rRNA	19748	21406	2.3e-129	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 51 percent of the 23S ribosomal RNA
+bc2167_c302	barrnap:0.8	rRNA	1428	2951	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+bc2167_c302	barrnap:0.8	rRNA	3268	6386	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c302	barrnap:0.8	rRNA	6485	6595	2e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c314	barrnap:0.8	rRNA	2319	4495	3.8e-156	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 67 percent of the 23S ribosomal RNA
+bc2167_c315	barrnap:0.8	rRNA	1269	4683	5.2e-214	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c316	barrnap:0.8	rRNA	1117	3582	1.5e-173	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 76 percent of the 23S ribosomal RNA
+bc2167_c317	barrnap:0.8	rRNA	799	3059	9.8e-164	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 69 percent of the 23S ribosomal RNA
+bc2167_c318	barrnap:0.8	rRNA	787	3531	1.1e-176	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c319	barrnap:0.8	rRNA	661	2975	1.5e-172	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 71 percent of the 23S ribosomal RNA
+bc2167_c320	barrnap:0.8	rRNA	130	2375	2.1e-104	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 69 percent of the 23S ribosomal RNA
+bc2167_c320	barrnap:0.8	rRNA	2553	3479	5.5e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c33	barrnap:0.8	rRNA	7133	7248	1.5e-09	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c331	barrnap:0.8	rRNA	10905	11019	3.1e-08	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c349	barrnap:0.8	rRNA	11	1676	9.7e-130	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 51 percent of the 23S ribosomal RNA
+bc2167_c353	barrnap:0.8	rRNA	1563	2489	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c355	barrnap:0.8	rRNA	5	1805	4.2e-136	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 55 percent of the 23S ribosomal RNA
+bc2167_c362	barrnap:0.8	rRNA	160	2625	1.5e-173	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 76 percent of the 23S ribosomal RNA
+bc2167_c371	barrnap:0.8	rRNA	33	1979	1.9e-150	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 60 percent of the 23S ribosomal RNA
+bc2167_c378	barrnap:0.8	rRNA	1491	2417	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c392	barrnap:0.8	rRNA	1231	3407	2.7e-156	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 67 percent of the 23S ribosomal RNA
+bc2167_c393	barrnap:0.8	rRNA	1167	3424	1.7e-163	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 69 percent of the 23S ribosomal RNA
+bc2167_c394	barrnap:0.8	rRNA	3	2245	8e-104	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 69 percent of the 23S ribosomal RNA
+bc2167_c395	barrnap:0.8	rRNA	3	2244	1.2e-103	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 69 percent of the 23S ribosomal RNA
+bc2167_c395	barrnap:0.8	rRNA	2422	3348	5.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c396	barrnap:0.8	rRNA	1513	2439	5.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c397	barrnap:0.8	rRNA	37332	38871	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+bc2167_c397	barrnap:0.8	rRNA	39169	41752	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 79 percent of the 23S ribosomal RNA
+bc2167_c4	barrnap:0.8	rRNA	558944	559059	1.2e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c4	barrnap:0.8	rRNA	718410	718525	1.2e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c409	barrnap:0.8	rRNA	2456	2571	1.7e-09	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c412	barrnap:0.8	rRNA	11063	11178	1.4e-07	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c422	barrnap:0.8	rRNA	408	3784	1.5e-207	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c425	barrnap:0.8	rRNA	3852	4778	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c43	barrnap:0.8	rRNA	15894	17399	1.6e-113	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+bc2167_c43	barrnap:0.8	rRNA	47636	49141	1.6e-113	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+bc2167_c431	barrnap:0.8	rRNA	2121	3047	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c439	barrnap:0.8	rRNA	310	3724	5.2e-214	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c440	barrnap:0.8	rRNA	77	2875	8.8e-148	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c440	barrnap:0.8	rRNA	3053	3912	4e-79	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 54 percent of the 16S ribosomal RNA
+bc2167_c446	barrnap:0.8	rRNA	1561	2487	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c449	barrnap:0.8	rRNA	2367	3293	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c451	barrnap:0.8	rRNA	963	4321	2.8e-206	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c459	barrnap:0.8	rRNA	1014	1940	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c459	barrnap:0.8	rRNA	2118	4307	4.7e-92	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 67 percent of the 23S ribosomal RNA
+bc2167_c461	barrnap:0.8	rRNA	493	1419	5.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c465	barrnap:0.8	rRNA	841	4254	5.1e-214	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c466	barrnap:0.8	rRNA	28	3441	6.8e-214	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c467	barrnap:0.8	rRNA	1473	2399	5.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c472	barrnap:0.8	rRNA	559	1485	5.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c477	barrnap:0.8	rRNA	2474	3400	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c478	barrnap:0.8	rRNA	181	3269	3.7e-212	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c479	barrnap:0.8	rRNA	53	2977	4.4e-196	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c481	barrnap:0.8	rRNA	4585	4700	7.8e-09	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c482	barrnap:0.8	rRNA	1530	2456	5.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c482	barrnap:0.8	rRNA	5932	9346	5.6e-214	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c482	barrnap:0.8	rRNA	9524	10450	5.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c482	barrnap:0.8	rRNA	13926	17340	5.2e-214	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c482	barrnap:0.8	rRNA	17518	18444	5.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c483	barrnap:0.8	rRNA	979	3444	1.5e-173	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 76 percent of the 23S ribosomal RNA
+bc2167_c484	barrnap:0.8	rRNA	539	3953	5.2e-214	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c484	barrnap:0.8	rRNA	4131	5057	5.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c485	barrnap:0.8	rRNA	419	3832	5.6e-214	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c486	barrnap:0.8	rRNA	2	2569	3e-121	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 79 percent of the 23S ribosomal RNA
+bc2167_c486	barrnap:0.8	rRNA	2747	3673	5.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c49	barrnap:0.8	rRNA	42023	42138	1.6e-09	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c490	barrnap:0.8	rRNA	1963	2889	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c492	barrnap:0.8	rRNA	550	1476	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c492	barrnap:0.8	rRNA	1654	4295	2.7e-134	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c494	barrnap:0.8	rRNA	19	916	4.7e-84	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 56 percent of the 16S ribosomal RNA
+bc2167_c494	barrnap:0.8	rRNA	1094	4428	7.9e-206	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c496	barrnap:0.8	rRNA	251	3421	9.6e-185	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c497	barrnap:0.8	rRNA	1950	2876	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c498	barrnap:0.8	rRNA	2651	4541	1.4e-147	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 58 percent of the 23S ribosomal RNA
+bc2167_c5	barrnap:0.8	rRNA	2024153	2024268	1.2e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c5	barrnap:0.8	rRNA	2320474	2320589	1.4e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c5	barrnap:0.8	rRNA	3724060	3724175	1.5e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c500	barrnap:0.8	rRNA	687	1613	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c500	barrnap:0.8	rRNA	1791	4026	7.3e-103	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 69 percent of the 23S ribosomal RNA
+bc2167_c501	barrnap:0.8	rRNA	570	3984	5.2e-214	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c502	barrnap:0.8	rRNA	489	1415	5.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c503	barrnap:0.8	rRNA	2055	2981	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c504	barrnap:0.8	rRNA	2	1810	1.4e-136	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 55 percent of the 23S ribosomal RNA
+bc2167_c505	barrnap:0.8	rRNA	1682	2608	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c506	barrnap:0.8	rRNA	2334	3260	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c507	barrnap:0.8	rRNA	1119	2871	6.5e-135	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 54 percent of the 23S ribosomal RNA
+bc2167_c510	barrnap:0.8	rRNA	12	2921	2.6e-190	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c511	barrnap:0.8	rRNA	2	3255	2e-201	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c512	barrnap:0.8	rRNA	495	1421	5.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c514	barrnap:0.8	rRNA	56	2980	4.5e-196	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c515	barrnap:0.8	rRNA	5	2749	7.4e-177	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c516	barrnap:0.8	rRNA	638	1564	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c516	barrnap:0.8	rRNA	1742	3585	5.3e-83	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 57 percent of the 23S ribosomal RNA
+bc2167_c520	barrnap:0.8	rRNA	1550	2476	5.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c521	barrnap:0.8	rRNA	2803	3729	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c524	barrnap:0.8	rRNA	5	2646	2.7e-134	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c525	barrnap:0.8	rRNA	319	2960	1.9e-134	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c526	barrnap:0.8	rRNA	7	2921	1.6e-195	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c528	barrnap:0.8	rRNA	2555	3481	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c529	barrnap:0.8	rRNA	3704	4630	5.3e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c530	barrnap:0.8	rRNA	2	2277	1.8e-164	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 70 percent of the 23S ribosomal RNA
+bc2167_c531	barrnap:0.8	rRNA	3	824	3.5e-77	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 51 percent of the 16S ribosomal RNA
+bc2167_c531	barrnap:0.8	rRNA	1002	3440	1.3e-106	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 75 percent of the 23S ribosomal RNA
+bc2167_c533	barrnap:0.8	rRNA	606	4014	4.2e-213	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c534	barrnap:0.8	rRNA	150	2465	1.2e-172	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 71 percent of the 23S ribosomal RNA
+bc2167_c538	barrnap:0.8	rRNA	27	2341	1.5e-172	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 71 percent of the 23S ribosomal RNA
+bc2167_c54	barrnap:0.8	rRNA	16	2771	6.4e-146	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c54	barrnap:0.8	rRNA	2949	3875	5.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c540	barrnap:0.8	rRNA	10	934	7.8e-85	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c540	barrnap:0.8	rRNA	1112	4015	3.8e-155	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c543	barrnap:0.8	rRNA	50	3464	5.2e-214	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c6	barrnap:0.8	rRNA	559	3973	5.2e-214	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c6	barrnap:0.8	rRNA	4151	5077	5.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c6	barrnap:0.8	rRNA	8553	11967	5.2e-214	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c6	barrnap:0.8	rRNA	12145	13071	5.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+bc2167_c6	barrnap:0.8	rRNA	229074	229188	1.5e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c6	barrnap:0.8	rRNA	1495461	1495576	1.1e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c7	barrnap:0.8	rRNA	67958	69439	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+bc2167_c7	barrnap:0.8	rRNA	70499	73287	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c7	barrnap:0.8	rRNA	73420	73529	8.6e-09	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c7	barrnap:0.8	rRNA	2562456	2562565	8.6e-09	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c7	barrnap:0.8	rRNA	2562698	2565486	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c7	barrnap:0.8	rRNA	2566611	2568092	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+bc2167_c8	barrnap:0.8	rRNA	2032469	2032584	1.2e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c8	barrnap:0.8	rRNA	2512959	2513074	1.1e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c8	barrnap:0.8	rRNA	2785015	2785129	1.9e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c8	barrnap:0.8	rRNA	2939890	2940004	1.2e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c8	barrnap:0.8	rRNA	3372777	3372892	3.7e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c8	barrnap:0.8	rRNA	3445443	3445558	1.2e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c8	barrnap:0.8	rRNA	3531842	3531957	1.2e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c9	barrnap:0.8	rRNA	1741498	1741612	3.8e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c9	barrnap:0.8	rRNA	2268013	2268128	2.2e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c92	barrnap:0.8	rRNA	9047	10588	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+bc2167_c92	barrnap:0.8	rRNA	10884	13993	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+bc2167_c92	barrnap:0.8	rRNA	14091	14201	1.3e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+bc2167_c94	barrnap:0.8	rRNA	18972	19087	7.8e-09	-	.	Name=5S_rRNA;product=5S ribosomal RNA
