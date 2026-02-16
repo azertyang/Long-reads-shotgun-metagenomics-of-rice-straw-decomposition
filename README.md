@@ -19,30 +19,35 @@ This repository includes:
 project/
 │
 ├── Assembly/
-│   ├── fastqc/ #results html files for the reads
-│   ├── hifiasm-meta/ 
-        -  assembly_metrics/
-        -  assembly_metrics_primary/
-        -  multiqc report
-│   ├──  metafly/
-        -  assembly_metric/
-        -  assembly_metrics_primary/
-        - multiqc report
-    └── Software version # for metagwgs 
-    └── Comparaison plot # assembly comparaison
+│   ├── fastqc/
+│   ├── hifiasm-meta/
+│   │   ├── assembly_metrics/
+│   │   ├── assembly_metrics_primary/
+│   │   └── multiqc_report/
+│   │
+│   ├── metaflye/
+│   │   ├── assembly_metrics/
+│   │   ├── assembly_metrics_primary/
+│   │   └── multiqc_report/
+│   │
+│   ├── comparison_plots/
+│   └── software_versions/
 │
 ├── Binning/
-│   ├── metagWGS/ # plot created by the binner/pipeline
-│   └── new_no_treatment/ #plots and files for the samples of new rice without treatment
-    └── new_treatment/
-    └── old_no_treatment/
-    └── old_treatment/
+│   ├── metagWGS/
+│   │
+│   ├── samples/
+│   │   ├── new_no_treatment/
+│   │   ├── new_treatment/
+│   │   ├── old_no_treatment/
+│   │   └── old_treatment/
 │
-├── Rcode/ #code used to make the plots and statistics 
-
-└── bash skripts 
+├── scripts/
+│   ├── R/
+│   └── bash/
 │
 └── README.md
+
 ---
 
 ## Dataset Information
