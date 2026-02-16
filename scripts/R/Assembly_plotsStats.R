@@ -59,32 +59,33 @@ p2 <- ggplot(abundances_long, aes(x = Sample, y = Abundance, fill = Genome)) +
 
 # Plot 3: Bin Statistics Overview
 
-p3a <- ggplot(bins_stats, aes(x = reorder(Sample, -`Total length`), y = `Total length`/1e6)) +
+p3a <- ggplot(bins_stats, aes(x = reorder(genome_id, -`genome_length`), y = `genome_length`/1e6)) +
   geom_col(fill = "steelblue") +
   labs(title = "Bin Sizes", x = "", y = "Size (Mb)") +
   theme_minimal() +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
-
-p3b <- ggplot(bins_stats, aes(x = reorder(Sample, -N50), y = N50/1000)) +
+  theme(axis.text.x = element_text(angle = 47, hjust = 1, size=5))
+print(p3a)
+p3b <- ggplot(bins_stats, aes(x = reorder(genome_id, -genome_N50), y = genome_N50/1000)) +
   geom_col(fill = "coral") +
   labs(title = "Bin N50", x = "", y = "N50 (kb)") +
   theme_minimal() +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
-
-p3c <- ggplot(bins_stats, aes(x = reorder(Sample, -`GC (%)`), y = `GC (%)`)) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1, size= 5))
+print(p3b)
+p3c <- ggplot(bins_stats, aes(x = reorder(genome_id, -`contamination`), y = `contamination`)) +
   geom_col(fill = "darkgreen") +
-  labs(title = "GC Content", x = "Bin", y = "GC (%)") +
+  labs(title = "Contamination", x = "Bin", y = "Contamination") +
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
-p3d <- ggplot(bins_stats, aes(x = `# contigs`)) +
+p3d <- ggplot(bins_stats, aes(x = `contig_count`)) +
   geom_histogram(bins = 30, fill = "purple", alpha = 0.7) +
   labs(title = "Contigs per Bin", x = "Number of Contigs", y = "Count") +
-  theme_minimal()
+  theme_minimal()+
+  theme(axis.text.x = element_text(angle = 45, hjust = 1, size= 5))
 
 p3 <- (p3a | p3b) / (p3c | p3d) +
   plot_annotation(title = "Bin Statistics Overview")
-
+print(p3)
 # Plot 4: Abundance Heatmap
 
 abundance_matrix <- abundances %>%
