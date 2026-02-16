@@ -22,4 +22,35 @@ This repository includes:
 
 All analyses were performed on PacBio HiFi long-read shotgun metagenomic datasets obtained from rice straw decomposition samples.
 
-Raw sequencing data and large intermediate files are not included in this repository.
+## Tools and Software
+
+### MetaWGS Pipeline (v2.5.0)
+
+- Nextflow v22.04.0  
+- Python v3.10.8  
+- FastQC v0.12.1  
+- Hifiasm v0.13-r308  
+- Quast v5.3.0  
+- Minimap2 v2.24-r1122  
+- Samtools v1.15.1  
+- Concoct v1.1.0  
+- MetaBAT2 v2.18  
+- MaxBin v2.2.7  
+- Binette v1.1.2  
+- dRep v3.5.0  
+- GTDB-Tk v2.4.0  
+- tRNAscan-SE v2.0.11  
+- Barrnap v0.9  
+- Prodigal v2.6.3  
+
+---
+
+### LorBin (v0.1.0)
+
+- Anaconda3 v2022.05  
+- Minimap2 v2.20 (GCCcore-10.3.0)  
+- SAMtools v1.13 (GCC-10.3.0)  
+
+---
+
+### SemiBin2 (v2.2.1)
