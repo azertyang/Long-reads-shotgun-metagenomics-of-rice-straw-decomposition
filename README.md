@@ -24,7 +24,8 @@ All analyses were performed on PacBio HiFi long-read shotgun metagenomic dataset
 
 ## Tools and Software
 
-### MetaWGS Pipeline (v2.5.0)
+### MetaWGS Pipeline (v2.5.0)  
+Repository: [MetaWGS](https://forge.inrae.fr/genotoul-bioinfo/metagwgs)
 
 - Nextflow v22.04.0  
 - Python v3.10.8  
@@ -45,7 +46,8 @@ All analyses were performed on PacBio HiFi long-read shotgun metagenomic dataset
 
 ---
 
-### LorBin (v0.1.0)
+### LorBin (v0.1.0)  
+Repository: [LorBin](https://github.com/LorMeBioAI/LorBin)
 
 - Anaconda3 v2022.05  
 - Minimap2 v2.20 (GCCcore-10.3.0)  
@@ -53,4 +55,6 @@ All analyses were performed on PacBio HiFi long-read shotgun metagenomic dataset
 
 ---
 
-### SemiBin2 (v2.2.1)
+### SemiBin2 (v2.2.1)  
+Repository: [SemiBin2](https://github.com/BigDataBiology/SemiBin)
+
